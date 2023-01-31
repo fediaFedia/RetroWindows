@@ -28,8 +28,13 @@ So far there are 10 App Lookalikes
 
 |Icon|App|Preview|Features|Maximizable*|
 |-|-|-|-|-|
-|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Welcome Center.png" width="100px" />|**Welcome Center**|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Welcome Center.png" width="300px" />|Shows an animation, contains several pages, opens other Apps|No|
-  
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Windows Media Player.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Windows Media Player.png" width="300px" />|**Windows Media Player Center**|Media Player lookalike with several pages and controls that control an actual Media Player. Visualization is a To-do still..|Yes|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Windows Photo Gallery.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Windows Photo Gallery.png" width="300px" />|**Windows Photo Gallery Center**|Can click on any of the shown Images to see it it bigger. Has no other pages.|No|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Computer.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Computer.png" width="300px" />|**Computer Center**|Windows Explorer lookalike, shows actual Computer Info and storage space.|Yes|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Control Panel.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Control Panel.png" width="300px" />|**Control Panel Center**|Links to other Control Panel items, including some real ones in Windows 10/11|Yes|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Windows Sidebar Gadgets.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Windows Sidebar Gadgets.png" width="300px" />|**Windows Sidebar Gadgets Center**|Actual working Gallery for the working Windows Sidebar Clone (RetroSidebar)|No|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Help.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Help.png" width="300px" />|**Help Center**|Shows the main Help Page|No|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Mobility Center.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Mobility Center.png" width="300px" />|**Mobility Center Center**|Lets you control sound, Power Option and Brightness|No|
 
 ### Themes
 
