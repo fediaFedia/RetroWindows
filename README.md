@@ -26,9 +26,9 @@
 
 So far there are 10 App Lookalikes
 
-|Icon|App|Preview|Features|Maximizable*
-|-|-|-|
-|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Welcome Center.png" width="100px" />|**Welcome Center**|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Welcome Center.png" width="300px" />|Shows an animation, contains several pages, opens other Apps|No
+|Icon|App|Preview|Features|Maximizable*|
+|-|-|-|-|-|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Welcome Center.png" width="100px" />|**Welcome Center**|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Welcome Center.png" width="300px" />|Shows an animation, contains several pages, opens other Apps|No|
   
 
 ### Themes
