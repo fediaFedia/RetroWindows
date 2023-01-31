@@ -28,10 +28,8 @@ So far there are 10 App Lookalikes
 
 |Icon|App|Preview|Features|Maximizable*
 |-|-|-|
-|<img src="@Resources/Graphics/Icons/Welcome Center.png" width="100px" />|**Welcome Center**|<img src="@Resources/Graphics/Apps/Welcome Center.png" width="300px" />|Shows an animation, contains several pages, opens other Apps|No
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Welcome Center.png" width="100px" />|**Welcome Center**|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Welcome Center.png" width="300px" />|Shows an animation, contains several pages, opens other Apps|No
   
-<img src="@Resources/Graphics/Banners/sizes.png" width="500px" align="right" />
-
 
 ### Themes
 
@@ -39,7 +37,7 @@ All windows come in Aero and Basic Styles.<br>
 Aero Windows can be customized further, using Window Color and Appearance:
 <br>Blur is also supported*<br>
 
-<img src="@Resources/Graphics/Apps/Window Color and Appearance - Red" width="400px" />
+<img src="@Resources/Graphics/Windows Vista RTM//Apps/Window Color and Appearance - Red.png" width="400px" />
 
 _* Currently works well on Windows 11_
 ### Languages
