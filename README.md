@@ -2,10 +2,10 @@
 
 <div align="center">
   RetroWindows for Rainmeter<br>
-  Bring Aero and Vista App lookalikes to your Windows 11 Desktop
+  Bring Aero and Vista App lookalikes to your Windows 10/11 Desktop
 </div>
 
-## NOTE: These apps are completelly non-functional, they just look good.
+### NOTE: These apps are completelly non-functional, they just look good.
 
 ## Get started
 
