@@ -28,7 +28,7 @@ So far there are 10 App Lookalikes
 
 |Icon|App|Preview|Features|Maximizable*|
 |-|-|-|-|-|
-|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Welcome Center.png" width="100px" />|**Welcome Center**|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Welcome Center.png" width="450px" />|Shows an animation, contains several pages, opens other Apps|No|
+|<img src="@Resources/Graphics//Windows Vista RTM/Icons/Welcome Center.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Welcome Center.png" width="450px" />|**Welcome Center**|Shows an animation, contains several pages, opens other Apps|No|
 |<img src="@Resources/Graphics//Windows Vista RTM/Icons/Windows Media Player.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Windows Media Player.png" width="450px" />|**Windows Media Player Center**|Media Player lookalike with several pages and controls that control an actual Media Player. Visualization is a To-do still..|Yes|
 |<img src="@Resources/Graphics//Windows Vista RTM/Icons/Windows Photo Gallery.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Windows Photo Gallery.png" width="450px" />|**Windows Photo Gallery Center**|Can click on any of the shown Images to see it it bigger. Has no other pages.|No|
 |<img src="@Resources/Graphics//Windows Vista RTM/Icons/Computer.png" width="100px" />|<img src="@Resources/Graphics/Windows Vista RTM//Apps/Computer.png" width="450px" />|**Computer Center**|Windows Explorer lookalike, shows actual Computer Info and storage space.|Yes|
